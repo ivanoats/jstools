@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<opml version="1.0">
+    <head>
+        <title>JavaScript Tools</title>
+        <ownerName></ownerName>
+    </head>
+    <body>
+        <outline text="JavaScript Tools">
+            <outline text="Functional Programming">
+                <outline text="Underscore"></outline>
+                <outline text="Lo-Dash"></outline>
+            </outline>
+            <outline text="Scaffolding Tools">
+                <outline text="Yeoman"></outline>
+                <outline text="Grunt-init"></outline>
+            </outline>
+            <outline text="Back End">
+                <outline text="Server Frameworks">
+                    <outline text="Node"></outline>
+                    <outline text="Express"></outline>
+                    <outline text="Sails"></outline>
+                    <outline text="Geddy"></outline>
+                </outline>
+                <outline text="Databases">
+                    <outline text="SQL">
+                        <outline text="PostgreSQL"></outline>
+                        <outline text="MySQL / MariaDB"></outline>
+                    </outline>
+                    <outline text="NoSQL">
+                        <outline text="MongoDB"></outline>
+                        <outline text="Redis"></outline>
+                    </outline>
+                </outline>
+                <outline text="Architectural Styles">
+                    <outline text="REST"></outline>
+                    <outline text="SOAP"></outline>
+                </outline>
+                <outline text="Testing">
+                    <outline text="CucumberJS"></outline>
+                    <outline text="Jasmine"></outline>
+                    <outline text="Mocha"></outline>
+                    <outline text="Q-Unit"></outline>
+                    <outline text="Assertion Libraries">
+                        <outline text="Chai"></outline>
+                        <outline text="Jasmine"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Front End">
+                <outline text="MV* Frameworks">
+                    <outline text="Backbone"></outline>
+                    <outline text="Ember"></outline>
+                    <outline text="Angular"></outline>
+                    <outline text="Knockout"></outline>
+                    <outline text="Ractive"></outline>
+                    <outline text="Mithril"></outline>
+                </outline>
+                <outline text="Templates">
+                    <outline text="Underscore"></outline>
+                    <outline text="Handlebars"></outline>
+                    <outline text="Mustache"></outline>
+                    <outline text="Jade"></outline>
+                    <outline text="Haml-js"></outline>
+                    <outline text="Eco"></outline>
+                </outline>
+                <outline text="Testing">
+                    <outline text="CasperJS"></outline>
+                    <outline text="ZombieJS"></outline>
+                    <outline text="PhantomJS"></outline>
+                </outline>
+            </outline>
+            <outline text="Package Management Tools">
+                <outline text="Homebrew"></outline>
+                <outline text="dpkg / apt"></outline>
+                <outline text="NPM"></outline>
+                <outline text="Bower"></outline>
+            </outline>
+            <outline text="Build Tools">
+                <outline text="Grunt">
+                    <outline text="Pint"></outline>
+                    <outline text="Grunt-contrib"></outline>
+                </outline>
+                <outline text="Gulp"></outline>
+                <outline text="Browserify"></outline>
+                <outline text="Uglify"></outline>
+                <outline text="Jake"></outline>
+                <outline text="Broccoli"></outline>
+            </outline>
+        </outline>
+    </body>
+</opml>
