@@ -1,5 +1,7 @@
 # A List of Foundational JavaScript  Tools
 
+_By Kalina Wu, Sarah Fischer, and Ivan Storck_
+
 In our boot camps, students are introduced to several tools and libraries to expand the abilities of their code. Kalina, one of our current JavaScript students, compiled a list of these tools and wanted to share it with other Code Fellows.
 
 [Ivan Storck](https://twitter.com/ivanoats), our [JavaScript Boot Camp](https://www.codefellows.org/javascript-bootcamp) instructor, used [Kalina's](https://www.linkedin.com/in/kalinawu) list to draft up this helpful mind map:
